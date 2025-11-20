@@ -93,5 +93,3 @@ Ele exibirá:
 * Quando a ponte esvazia, o sentido pode inverter
 * Em nenhum momento deve ocorrer **deadlock**
 * Todos os carros eventualmente atravessam (sem starvation)
-
-Só pedir!
